@@ -11,7 +11,7 @@
  
 - `desktop`: A [Tauri](https://tauri.studio) app.
 - `mobile`: A [React Native](https://reactnative.dev/) app.
-- `web`: A [ReactJs](https://reactjs.org) webapp.
+- `web`: A [ReactJs](https://reactjs.org) webapp. + Java at Backend
 - `landing`: A [ReactJs + Nextjs](https://reactjs.org) app using Vite SSR & Vite pages.
 
 ### Libraries
