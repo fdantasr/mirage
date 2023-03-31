@@ -1,24 +1,11 @@
 <p align="center">
-<img width="300" src="https://user-images.githubusercontent.com/62207970/214764965-e82e27c6-b5ac-48f8-bbd0-b0d67e4bd655.svg">
+<img width="190" src="https://user-images.githubusercontent.com/62207970/229207920-cf49e746-54ef-4e23-9466-a8146b33cba9.svg">
 </p>
 
 ---
 
-###  Start task-related discussions using topics and tags.
 
-[Today's Task](https://github.com/fdantasr/today-task) is an open source and White-label web app that provides a simple and fast space to better communicate with your clients on freelance projects.
-
-### Features I'm working on:
-
-
-- [x] Login - Authentication and Authorization. 
-- [x] Personal profile
-- [x] Discussions/Feedback Feed
-- [x] kanban board
-- [x] Space for exchanging direct messages
-- [x] Fully whitelabel space
- 
- ![](https://user-images.githubusercontent.com/62207970/217142575-9036139e-4cd0-4d11-8121-a195dc81796a.png)
+ ![](https://user-images.githubusercontent.com/62207970/229208478-216f1563-75a4-4bb9-891a-b97b3660f99c.png)
  
  ### Architecture:
  
